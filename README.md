@@ -1,2 +1,1 @@
-# datascience
-This is dummy project
+This is for class task 1 
